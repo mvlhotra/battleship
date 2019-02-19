@@ -1,0 +1,22 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "battleship stretch project",
+  "main": "Battleship.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mvlhotra/Battleship.git"
+  },
+  "author": "Nik",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mvlhotra/Battleship/issues"
+  },
+  "homepage": "https://github.com/mvlhotra/Battleship#readme",
+  "dependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
